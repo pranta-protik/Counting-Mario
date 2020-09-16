@@ -15,3 +15,5 @@ If your number is less than target number, you die.
 - Finally , keep the goal in mind. 
 
 ![Gameplay Demo](Assets/Sprites/CountingMario.gif)
+
+[Play Now](https://itch.io/profile/pranta15)
